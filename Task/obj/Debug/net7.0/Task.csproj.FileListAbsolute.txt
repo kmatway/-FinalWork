@@ -1,0 +1,15 @@
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/bin/Debug/net7.0/Task
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/bin/Debug/net7.0/Task.deps.json
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/bin/Debug/net7.0/Task.runtimeconfig.json
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/bin/Debug/net7.0/Task.dll
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/bin/Debug/net7.0/Task.pdb
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/obj/Debug/net7.0/Task.csproj.AssemblyReference.cache
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/obj/Debug/net7.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/obj/Debug/net7.0/Task.AssemblyInfoInputs.cache
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/obj/Debug/net7.0/Task.AssemblyInfo.cs
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/obj/Debug/net7.0/Task.csproj.CoreCompileInputs.cache
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/obj/Debug/net7.0/Task.dll
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/obj/Debug/net7.0/refint/Task.dll
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/obj/Debug/net7.0/Task.pdb
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/obj/Debug/net7.0/Task.genruntimeconfig.cache
+/Users/ekaterinamatveeva/C#/-FinalWork/Task/obj/Debug/net7.0/ref/Task.dll
